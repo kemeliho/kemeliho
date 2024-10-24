@@ -1,7 +1,7 @@
 ## Olá eu sou a kemeli holanda
-- 🔭 cursando infomática
-- 🌱 estou aprendendo html/css e paython
-- 📫 contate-me:kemeli.holanda@aluno.ce.gov.br
+- 🔭 Cursando infomática
+- 🌱 Estou aprendendo html/css e paython
+- 📫 Pontate-me:kemeli.holanda@aluno.ce.gov.br
 - 😄 Pronouns: Ela/dela...
 
 <div>
