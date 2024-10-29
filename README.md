@@ -47,7 +47,7 @@
 
 
 
-atane# kemeliho
+
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/kemeliho/kemeliho/main.yml?label=action&style=flat-square)](https://github.com/kemeliho/kemeliho/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/kemeliho/snk.svg?style=flat-square)](https://github.com/kemeliho/snk/releases/latest)
