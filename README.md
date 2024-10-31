@@ -5,7 +5,7 @@
 
 ## Olá eu sou a kemeli holanda
 - 🔭 Estudando infomática 1/3
-- 🌱 Estou aprendendo html/css,Paython,Arquitetura e manutenção de computadores  
+- 🌱  estou aprendendo: HTML/CSS, logica de programção,arquitetura e manutenção de computadores ... 
 - 📫 Contate-me:kemeli.holanda@aluno.ce.gov.br
 - 😄 Pronouns: Ela/dela...
 
@@ -20,6 +20,7 @@
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="kemeliho-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
  ## 
