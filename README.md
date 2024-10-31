@@ -12,8 +12,8 @@
 <div>
 <a href="https://github.com/kemeliho">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemeliho&show_icons=true&theme-dracula&include_all_commits=true&count_private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemeliho&layout-compact&langs_count=16&theme-dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kemeliho&show_icons=true&theme-dark&include_all_commits=true&count_private-true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kemeliho&layout-compact&langs_count=16&theme-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,23 +30,6 @@
 <a href="mailto:kemeli.holanda@aluno.ce.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kemeliho-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dracula)"
-    srcset="https://raw.githubusercontent.com/kemeliho/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kemeliho/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/pl/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 
