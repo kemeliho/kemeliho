@@ -34,11 +34,6 @@
 
 
 
-![Snake animation](https://giyhub.com/kemeliho/kemeliho/blob/output/github-contribution-grid-snake.svg)
-
-
-
-[![readme](https://github-readme-stats.versel.app/api/pin/?username=kemeliho&repo=kemeliho&theme=react)](https://github.com/kemeliho/kemeliho)
 
 
 
